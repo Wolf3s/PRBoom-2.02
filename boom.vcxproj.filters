@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Am_map.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Doomdef.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DOOMSTAT.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DSTRINGS.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D_deh.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D_ITEMS.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D_main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D_net.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F_finale.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F_wipe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G_game.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hu_lib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hu_stuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Info.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I_main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I_net.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I_sound.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I_system.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I_video.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lprintf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mmus2mid.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="M_argv.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="M_BBOX.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="M_cheat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="M_menu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="M_misc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="M_RANDOM.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_CEILNG.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_DOORS.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_enemy.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_FLOOR.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_genlin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_INTER.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_LIGHTS.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_map.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_maputl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_MOBJ.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_PLATS.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_PSPR.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_saveg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_setup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_SIGHT.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_spec.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_SWITCH.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_telept.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_TICK.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_USER.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="R_bsp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="R_data.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="R_draw.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="R_main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="R_plane.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="R_segs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="R_SKY.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="R_things.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SOUNDS.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="St_lib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="St_stuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S_sound.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TABLES.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VERSION.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="V_video.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Winstuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wi_stuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W_wad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z_ZONE.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AM_MAP.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DOOMDATA.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Doomdef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DOOMSTAT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Doomtype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DSTRINGS.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D_DEH.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D_ENGLSH.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D_EVENT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D_FRENCH.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D_ITEMS.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D_main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D_NET.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D_PLAYER.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D_TEXTUR.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D_think.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D_ticcmd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F_FINALE.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F_WIPE.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G_game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HU_LIB.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HU_STUFF.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="INFO.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="INTERNAL.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="INTERNDJ.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I_NET.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I_sound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I_system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I_video.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lprintf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mmus2mid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="M_ARGV.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="M_bbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="M_cheat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="M_fixed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="M_MENU.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="M_MISC.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="M_RANDOM.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="M_swap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P_ENEMY.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P_INTER.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P_MAP.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P_MAPUTL.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P_MOBJ.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P_PSPR.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P_SAVEG.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P_SETUP.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P_spec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P_TICK.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P_USER.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R_BSP.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R_DATA.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R_DEFS.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R_draw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R_main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R_PLANE.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R_SEGS.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R_SKY.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R_STATE.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R_things.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SOUNDS.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ST_LIB.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="St_stuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S_SOUND.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TABLES.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VERSION.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="V_video.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Winstuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WI_STUFF.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W_WAD.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z_zone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
